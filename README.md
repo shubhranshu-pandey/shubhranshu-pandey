@@ -1,6 +1,6 @@
 <!-- Snake Eating Contribution Stat -->
 <div>
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ShubhranshuPandey/ShubhranshuPandey/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/shubhranshu-pandey/shubhranshu-pandey/output/github-contribution-grid-snake.svg" />
 
 <!-- <img src="https://raw.githubusercontent.com/shubhranshu-pandey/shubhranshu-pandey/output/snake.svg" alt="Snake animation" /> -->
 </div><hr>
