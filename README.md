@@ -1,6 +1,8 @@
 <!-- Snake Eating Contribution Stat -->
 <div>
-<img src="https://raw.githubusercontent.com/shubhranshu-pandey/shubhranshu-pandey/output/snake.svg" alt="Snake animation" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ShubhranshuPandey/ShubhranshuPandey/output/github-contribution-grid-snake.svg" />
+
+<!-- <img src="https://raw.githubusercontent.com/shubhranshu-pandey/shubhranshu-pandey/output/snake.svg" alt="Snake animation" /> -->
 </div><hr>
 <h1 align="center"><i>Hi 👋, I'm Shubhranshu Pandey</i></h1>
 <h3 align="center"><i>A FULL STACK WEB DEVELOPER AND CLOUD ENTHUSIAST.</i></h3>
