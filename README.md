@@ -44,8 +44,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhranshuPandey&show_icons=true&theme=github_dark" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhranshuPandey&theme=github-dark-blue" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhranshu-pandey&show_icons=true&theme=github_dark" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhranshu-pandey&theme=github-dark-blue" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhranshu-pandey&theme=github-dark" />
 </p>
 
 ---
