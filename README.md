@@ -44,12 +44,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhranshu-pandey&show_icons=true&theme=github_dark" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhranshu-pandey&theme=github-dark-blue" width="45%" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhranshu-pandey&show_icons=true&count_private=true&theme=radical" height="150" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=shubhranshu-pandey&theme=radical&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhranshu-pandey&theme=github-dark" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhranshu-pandey&layout=compact&theme=radical" />
 </p>
 
 ---
