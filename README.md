@@ -57,7 +57,7 @@
 
 ### 🔥 My Recent Projects
 
-- 🧾 **[Amazon Clone](https://github.com/ShubhranshuPandey/Amazon-Clone)** – Built using HTML, CSS, JavaScript
+- 🧾 **[Amazon Clone](https://github.com/shubhranshu-pandey/Amazon-Clone)** – Built using HTML, CSS, JavaScript
 - 📦 **[QR Code Generator (Serverless)](https://github.com/ShubhranshuPandey/qr-code-serverless)** – Lambda, API Gateway, S3
 
 ---
