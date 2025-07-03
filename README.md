@@ -61,7 +61,7 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shubhranshu-pandey21/)
-- 💬 Email:(shubhranshu2192@gmail.com)
+- 💬 [Email](shubhranshu2192@gmail.com)
 - 🖥️ [GitHub](https://github.com/shubhranshu-pandey)
 
 ---
