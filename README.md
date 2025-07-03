@@ -53,7 +53,6 @@
 ### 🔥 My Recent Projects
 
 - 🧾 **[Amazon Clone](https://github.com/ShubhranshuPandey/Amazon-Clone)** – Built using HTML, CSS, JavaScript
-- 📲 **[Login System with JSP & MySQL](https://github.com/ShubhranshuPandey/LoginApp)** – Java Web App using Jakarta EE
 - 📦 **[QR Code Generator (Serverless)](https://github.com/ShubhranshuPandey/qr-code-serverless)** – Lambda, API Gateway, S3
 
 ---
