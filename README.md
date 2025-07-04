@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shubhranshu Pandey</h1>
-<h3 align="center">🚀 Cloud | DevOps | Full Stack Enthusiast | B.Tech CSE @ LPU</h3>
+<h3 align="center">Cloud | DevOps | Full Stack Enthusiast | B.Tech CSE @ LPU</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShubhranshuPandey&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
