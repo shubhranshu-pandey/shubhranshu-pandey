@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubhranshu Pandey</h1>
+<h1 align="center">Hi, I'm Shubhranshu Pandey</h1>
 <h3 align="center">🚀 Cloud | DevOps | Full Stack Enthusiast | B.Tech CSE @ LPU</h3>
 
 <p align="center">
