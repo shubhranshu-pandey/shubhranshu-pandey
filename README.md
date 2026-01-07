@@ -48,6 +48,18 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhranshu-pandey&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhranshu-pandey&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shubhranshu-pandey21/)
