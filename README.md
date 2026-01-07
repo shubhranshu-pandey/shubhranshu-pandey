@@ -41,20 +41,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhranshu-pandey&show_icons=true&count_private=true&theme=tokyonight" height="170" />
-  
-</p>
-
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhranshu-pandey&layout=compact&theme=tokyonight" />
-</p>
-
-
----
-
 ### 🔥 My Recent Projects
 
 - 🧾 **[Amazon Clone](https://github.com/shubhranshu-pandey/Amazon-Clone)** – Built using HTML, CSS, JavaScript
